@@ -17,16 +17,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/islamyasin07/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/islamyasin07/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/islamyasin07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/islamyasin07/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/islamyasin07/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/islamyasin07/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/islamyasin07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/islamyasin07/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/islamyasin07/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
