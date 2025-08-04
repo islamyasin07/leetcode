@@ -6,3 +6,4 @@ class Solution:
                 return False
             farthest = max(farthest, i + nums[i])
         return True
+
