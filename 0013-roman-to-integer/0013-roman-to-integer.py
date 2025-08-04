@@ -1,13 +1,13 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        r = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+        roman_map = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
         total = 0
-        prev = 0
-        for c in reversed(s):
-            curr = r[c]
-            if curr < prev:
-                total -= curr
+        prev_value = 0
+        for char in reversed(s):
+            current_value = roman_map[char]
+            if current_value < prev_value:
+                total -= current_value
             else:
-                total += curr
-            prev = curr
+                total += current_value
+            prev_value = current_value
         return total
