@@ -1,19 +1,15 @@
 class Solution:
-    def romanToInt(self, s):
-        values = {
-            'I': 1,
-            'V': 5,
-            'X': 10,
-            'L': 50,
-            'C': 100,
-            'D': 500,
-            'M': 1000
+    def romanToInt(self, s: str) -> int:
+        roman = {
+            'I': 1, 'V': 5, 'X': 10,
+            'L': 50, 'C': 100, 'D': 500, 'M': 1000
         }
-
-        result = 0
+        
+        total = 0
         for i in range(len(s)):
-            if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
-                result = result - values[s[i]]
+            if i + 1 < len(s) and roman[s[i]] < roman[s[i + 1]]:
+                total -= roman[s[i]]
             else:
-                result = result + values[s[i]]
-        return result
+                total += roman[s[i]]
+        
+        return total
