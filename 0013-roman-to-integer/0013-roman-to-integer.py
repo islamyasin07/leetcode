@@ -1,19 +1,13 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        values = {
-            'I': 1, 'V': 5, 'X': 10,
-            'L': 50, 'C': 100, 'D': 500, 'M': 1000
-        }
-
+        romans = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
         total = 0
-        last = 0
-
-        for letter in reversed(s):
-            num = values[letter]
-            if num < last:
-                total = total - num
+        old_value = 0
+        for char in reversed(s):
+            current_value = romans[char]
+            if current_value < old_value:
+                total -= current_value
             else:
-                total = total + num
-            last = num
-
+                total += current_value
+            old_value = current_value
         return total
