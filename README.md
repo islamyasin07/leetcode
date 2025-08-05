@@ -45,20 +45,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/islamyasin07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/islamyasin07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/islamyasin07/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/islamyasin07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/islamyasin07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/islamyasin07/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/islamyasin07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/islamyasin07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/islamyasin07/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/islamyasin07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/islamyasin07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/islamyasin07/leetcode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
