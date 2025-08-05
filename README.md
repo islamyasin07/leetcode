@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/islamyasin07/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/islamyasin07/leetcode/tree/master/0013-roman-to-integer) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/islamyasin07/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Array
 |  |
 | ------- |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/islamyasin07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/islamyasin07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/islamyasin07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/islamyasin07/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/islamyasin07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/islamyasin07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/islamyasin07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/islamyasin07/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/islamyasin07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/islamyasin07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/islamyasin07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/islamyasin07/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/islamyasin07/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
