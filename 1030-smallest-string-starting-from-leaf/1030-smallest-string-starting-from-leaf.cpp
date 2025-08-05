@@ -1,6 +1,5 @@
 class Solution {
     string smallest = "~"; 
-
     void dfs(TreeNode* node, string path) {
         if (!node) return;
         path = char('a' + node->val) + path;
