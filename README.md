@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/islamyasin07/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/islamyasin07/leetcode/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/islamyasin07/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/islamyasin07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/islamyasin07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/islamyasin07/leetcode/tree/master/0274-h-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/islamyasin07/leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/islamyasin07/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/islamyasin07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/islamyasin07/leetcode/tree/master/0155-min-stack) |
 | [0883-car-fleet](https://github.com/islamyasin07/leetcode/tree/master/0883-car-fleet) |
@@ -108,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/islamyasin07/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0883-car-fleet](https://github.com/islamyasin07/leetcode/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
