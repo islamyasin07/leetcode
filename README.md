@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/islamyasin07/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/islamyasin07/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/islamyasin07/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/islamyasin07/leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/islamyasin07/leetcode/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/islamyasin07/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Array
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/islamyasin07/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/islamyasin07/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/islamyasin07/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/islamyasin07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/islamyasin07/leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/islamyasin07/leetcode/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/islamyasin07/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Stack
