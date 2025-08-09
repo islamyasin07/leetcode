@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/islamyasin07/leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/islamyasin07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/islamyasin07/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/islamyasin07/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/islamyasin07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/islamyasin07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/islamyasin07/leetcode/tree/master/0274-h-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/islamyasin07/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/islamyasin07/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/islamyasin07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/islamyasin07/leetcode/tree/master/0155-min-stack) |
 ## Design
 |  |
